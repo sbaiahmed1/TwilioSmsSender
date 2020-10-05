@@ -1,13 +1,4 @@
 ## Using this project
-
-Clone the project, change into the directory and install the dependencies.
-
-```bash
-git clone https://github.com/philnash/react-express-starter.git
-cd react-express-starter
-npm install
-```
-
 Create a `.env` file for environment variables in your server.
 
 You can start the server on its own with the command:
